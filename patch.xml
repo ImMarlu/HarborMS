@@ -1,15 +1,23 @@
 <?xml version="1.0"?> 
 <HarborUpdate> 
     <update> 
-        <version>2.1.0.0</version> 
-        <url>https://www.dropbox.com/s/2kfucvtrymmmmd1/HarborMS.exe?dl=1</url> 
+        <version>2.0.0.0</version> 
+        <url>https://github.com/ImMarlu/HarborMS/blob/master/HarborMS.exe?raw=true</url> 
         <filePath>./HarborMS.exe</filePath>
-        <md5>edafe6085f80ec6218ed3db0487ed3b3</md5>
+        <md5>c9937f9e067361fe9555ea0729cfdfde</md5>
+        <description>Updated the version as a test to 2.0.0.0</description> 
+        <launchArgs></launchArgs> 
+    </update>
+    <update> 
+        <version>2.0.0.0</version> 
+        <url>https://github.com/ImMarlu/HarborMS/blob/master/HarborUpdate.dll?raw=true</url> 
+        <filePath>./HarborUpdate.dll</filePath>
+        <md5>b585b922b963ccc24ccd115337e736ac</md5>
         <description>Updated the version as a test to 2.0.0.0</description> 
         <launchArgs></launchArgs> 
     </update>
     <add> 
-        <version>2.1.0.0</version> 
+        <version>1.0.0.0</version> 
         <url>https://www.dropbox.com/s/2qo9gzwfzt85g06/readme%20peter.txt?dl=1</url> 
         <filePath>./readme_peter.txt</filePath>
         <md5>a4b36dbc41f7f092d0a3004bbb125642</md5>
