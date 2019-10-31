@@ -9,7 +9,7 @@
         <launchArgs></launchArgs> 
     </update>
     <add> 
-        <version>2.0.0.0</version> 
+        <version>3.0.0.0</version> 
         <url>https://www.dropbox.com/s/2qo9gzwfzt85g06/readme%20peter.txt?dl=1</url> 
         <filePath>./readme_peter.txt</filePath>
         <md5>a4b36dbc41f7f092d0a3004bbb125642</md5>
