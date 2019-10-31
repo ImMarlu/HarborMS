@@ -1,7 +1,15 @@
 <?xml version="1.0"?> 
-<HarborUpdate> 
+<harborUpdate> 
+    <update> 
+        <version>2.0.0.0</version> 
+        <url>https://www.dropbox.com/s/2kfucvtrymmmmd1/HarborMS.exe?dl=1</url> 
+        <filePath>./HarborMS.exe</filePath>
+        <md5>f6b339ed8c6119f381750a184fb97412</md5>
+        <description>Updated the version as a test to 2.0.0.0</description> 
+        <launchArgs></launchArgs> 
+    </update>
     <add> 
-        <version>1.0.0.0</version> 
+        <version>2.0.0.0</version> 
         <url>https://www.dropbox.com/s/2qo9gzwfzt85g06/readme%20peter.txt?dl=1</url> 
         <filePath>./readme_peter.txt</filePath>
         <md5>a4b36dbc41f7f092d0a3004bbb125642</md5>
@@ -13,4 +21,4 @@
         <description>Removes the test_remove.dll from directory</description> 
         <launchArgs></launchArgs> 
     </remove>
-</HarborUpdate>
+</harborUpdate>
