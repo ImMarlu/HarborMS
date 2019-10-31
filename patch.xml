@@ -1,5 +1,5 @@
 <?xml version="1.0"?> 
-<harborUpdate> 
+<HarborUpdate> 
     <update> 
         <version>2.0.0.0</version> 
         <url>https://www.dropbox.com/s/2kfucvtrymmmmd1/HarborMS.exe?dl=1</url> 
@@ -21,4 +21,4 @@
         <description>Removes the test_remove.dll from directory</description> 
         <launchArgs></launchArgs> 
     </remove>
-</harborUpdate>
+</HarborUpdate>
