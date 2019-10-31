@@ -2,7 +2,7 @@
 <HarborUpdate> 
     <update> 
         <version>2.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/ImMarlu/HarborMS/blob/master/HarborMS.exe</url> 
+        <url>https://raw.githubusercontent.com/ImMarlu/HarborMS/master/HarborMS.exe</url> 
         <filePath>./HarborMS.exe</filePath>
         <md5>c9937f9e067361fe9555ea0729cfdfde</md5>
         <description>Updated the version as a test to 2.0.0.0</description> 
@@ -10,7 +10,7 @@
     </update>
     <update> 
         <version>2.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/ImMarlu/HarborMS/blob/master/HarborUpdate.dll</url> 
+        <url>https://raw.githubusercontent.com/ImMarlu/HarborMS/master/HarborUpdate.dll</url> 
         <filePath>./HarborUpdate.dll</filePath>
         <md5>b585b922b963ccc24ccd115337e736ac</md5>
         <description>Updated the version as a test to 2.0.0.0</description> 
