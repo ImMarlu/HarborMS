@@ -1,0 +1,16 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <add> 
+        <version>1.0.0.0</version> 
+        <url>https://www.dropbox.com/s/2qo9gzwfzt85g06/readme%20peter.txt?dl=1</url> 
+        <filePath>./readme_peter.txt</filePath>
+        <md5>a4b36dbc41f7f092d0a3004bbb125642</md5>
+        <description>Test file to add to the directory</description> 
+        <launchArgs></launchArgs> 
+    </add>
+    <remove>
+        <filePath>./test_remove.dll</filePath>
+        <description>Removes the test_remove.dll from directory</description> 
+        <launchArgs></launchArgs> 
+    </remove>
+</sharpUpdate>
