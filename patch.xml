@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <harborUpdate> 
     <update> 
-        <version>2.0.0.0</version> 
+        <version>3.0.0.0</version> 
         <url>https://www.dropbox.com/s/2kfucvtrymmmmd1/HarborMS.exe?dl=1</url> 
         <filePath>./HarborMS.exe</filePath>
         <md5>123e0a81e70b89b7f1fc7e0b407f6a6b</md5>
