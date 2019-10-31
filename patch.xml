@@ -4,7 +4,7 @@
         <version>3.0.0.0</version> 
         <url>https://www.dropbox.com/s/2kfucvtrymmmmd1/HarborMS.exe?dl=1</url> 
         <filePath>./HarborMS.exe</filePath>
-        <md5>123e0a81e70b89b7f1fc7e0b407f6a6b</md5>
+        <md5>edafe6085f80ec6218ed3db0487ed3b3</md5>
         <description>Updated the version as a test to 2.0.0.0</description> 
         <launchArgs></launchArgs> 
     </update>
